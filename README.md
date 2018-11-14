@@ -12,7 +12,7 @@ This chat bot was built using [Dialogflow](https://dialogflow.com/). In its curr
 Clone this repo locally 
 
 ```bash
-git clone 
+git clone https://github.com/grace000/react-chatbot.git
 ```
 
 Download the dependencies
