@@ -16,7 +16,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    const pusher = new Pusher('39ec620fa766f10bd334', {
+    const pusher = new Pusher('0ec3901b3bf8a868f645', {
       cluster: 'us2',
       encrypted: true,
     });
