@@ -55,7 +55,7 @@ class App extends Component {
       conversation: [...this.state.conversation, msg],
     });
 
-    const chatURL = 'https://localhost:5000/chat';
+    const chatURL = 'https://tiffs-chatbot.herokuapp.com/chat';
 
     fetch(chatURL, {
       method: 'POST',
